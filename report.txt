@@ -1,0 +1,10 @@
+Total Revenue: 325000
+
+Revenue per product:
+product
+Laptop    150000
+Phone     100000
+Tablet     75000
+Name: revenue, dtype: int64
+
+Top Selling Product: Laptop

@@ -1,0 +1,9 @@
+import pandas as pd
+
+data = pd.read_csv("sales.csv")
+
+data["revenue"] = data["price"] * data["quantity"]
+
+total_revenue = data["revenue"].sum()
+
+print("Total Revenue:", total_revenue)
