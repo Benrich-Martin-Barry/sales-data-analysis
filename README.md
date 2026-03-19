@@ -1,32 +1,25 @@
-# Sales Data Analysis Project
+# Sales Dashboard (Tableau)
 
 ## Overview
 
-This project analyzes sales data using Python and Pandas to generate useful business insights.
+An interactive dashboard built using Tableau to analyze sales performance.
 
 ## Features
 
-* Calculate total revenue
-* Analyze revenue per product
-* Identify top-selling product
-* Generate automated report
+* Revenue analysis by product
+* Quantity distribution
+* KPI: Total Revenue
 
-## Technologies Used
+## Tools Used
 
-* Python
-* Pandas
-* Linux
-* Git & GitHub
+* Tableau
+* CSV Dataset
 
-## How to Run
+## Insights
 
-1. Activate virtual environment
-2. Run the script:
-   python analysis.py
+* Identified top-performing products
+* Analyzed sales trends
 
-## Output
+## Author
 
-* Displays total revenue
-* Shows product-wise revenue
-* Identifies top product
-* Saves results in report.txt
+Benrich Martin Barry
